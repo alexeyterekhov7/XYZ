@@ -1,9 +1,9 @@
-# XYZ
-Ping'er NVR
+# XYZ: Simple app - Pinger NVR (Network Video Recorder) & Statictics
+This simple application polls DVRs and generates response statistics
 
+
+#Index page
 ![alt text](https://github.com/alexeyterekhov7/XYZ/blob/main/screen_list.png)
 
-screenshot screen_list.png 
-screenshot screen_stat.png 
-
-![alt text](https://github.com/alexeyterekhov7/XYZ/blob/main/screen_list.png?raw=true)
+#Statictics page
+![alt text](https://github.com/alexeyterekhov7/XYZ/blob/main/screen_stat.png?raw=true)
